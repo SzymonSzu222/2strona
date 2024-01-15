@@ -1,0 +1,8 @@
+<TD width="500">Czy posiadasz jakiœ sprzêt potrzebny do treningów?
+<br><br>
+<input type="checkbox" name="sprzet" value="k"> ma³o lub brak 
+<br><br>
+<input type="checkbox" name="sprzet" value="m"> œrednio
+<br><br>
+<input type="checkbox" name="sprzet" value="inna"> du¿o
+<br><br><br>
